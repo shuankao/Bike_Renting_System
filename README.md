@@ -1,5 +1,5 @@
 # Bike_Renting_System
-Using efficient data structures to build a bike-renting system that maximize the profits
+Using efficient data structures to build a bike-renting system that maximize the profits.
 
 A. Set case and version in Makefile, e.g. case1, basic
 B. In comand line: make NTHU_bike
